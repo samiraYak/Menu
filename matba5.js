@@ -127,7 +127,7 @@ dessertsMenu.forEach(element => {
   cardDesserts.append(imageDesserts,bodyDesserts);
   colDesserts.appendChild(cardDesserts);
   rowDesserts.appendChild(colDesserts);
-
+// frergfer
 });
 
 
