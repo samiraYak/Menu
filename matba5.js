@@ -3,7 +3,7 @@ const sandwichMenu = [
     {"name":"Fajita","image":"https://www.pngmart.com/files/5/Fajita-PNG-Photos.png", "price":"5$" },
     {"name":"shawerma","image":"https://pngimg.com/uploads/shawarma/shawarma_PNG2.png", "price":"5$" },
     {"name":"crispy","image":"https://toppng.com/uploads/thumbnail/mcdonalds-crispy-chicken-sandwich-11549663392vpo7cxfp3b.png", "price":"5$" },
-    {"name":"Escalope","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsnVBCEcVV2xYLWOhlgGOfweiVB0riCOK5w&usqp=CAU", "price":"5$" },
+    {"name":"Escalope","image":"https://www.casperburger.com/application/files/cache/thumbnails/3e36d00cd233c49da95fd359ec5a5631.png", "price":"5$" },
 ]
 const rowSandwich = document.getElementById("row-sandwich");
 const containerSandwich = document.getElementById("container-sandwich");
