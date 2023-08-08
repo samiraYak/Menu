@@ -1,6 +1,6 @@
 const sandwichMenu = [
     {"name":"Hamburger","image":"https://static.vecteezy.com/system/resources/previews/021/665/613/original/beef-burger-isolated-png.png","price":"5$"},
-    {"name":"Fajita","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsfabwzDCZqcQQ_Z66qHjvFd4lk1MiiD10Q&usqp=CAU", "price":"5$" },
+    {"name":"Fajita","image":"https://www.pngmart.com/files/5/Fajita-PNG-Photos.png", "price":"5$" },
     {"name":"shawerma","image":"https://pngimg.com/uploads/shawarma/shawarma_PNG2.png", "price":"5$" },
     {"name":"crispy","image":"https://toppng.com/uploads/thumbnail/mcdonalds-crispy-chicken-sandwich-11549663392vpo7cxfp3b.png", "price":"5$" },
     {"name":"Escalope","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsnVBCEcVV2xYLWOhlgGOfweiVB0riCOK5w&usqp=CAU", "price":"5$" },
